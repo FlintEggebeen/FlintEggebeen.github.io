@@ -34,12 +34,22 @@ export const translations = {
     "projects.empty": "Geen projecten met deze tags gevonden.",
     "projects.role": "Rol",
     "projects.timeline": "Tijdlijn",
+    "projects.about": "Over dit project",
+    "projects.gallery": "Screenshots",
+    "projects.mechanics": "Mechanics",
+    "projects.back": "Alle projecten",
+    "projects.prev": "Vorige",
+    "projects.next": "Volgende",
+    "projects.notfound": "Project niet gevonden",
 
     // Contact
     "contact.title": "Contact",
     "contact.subtitle": "Neem contact met mij op! Stuur mij een email en ik zal zo snel mogelijk reageren.",
     "contact.card.title": "Email",
     "contact.card.hint": "Klik op het email adres hierboven om mij direct een bericht te sturen.",
+    "contact.copy": "Kopieer",
+    "contact.copied": "Gekopieerd!",
+    "contact.socials": "Vind mij ook op",
 
     // Footer
     "footer.rights": "Alle rechten voorbehouden.",
@@ -75,12 +85,22 @@ export const translations = {
     "projects.empty": "No projects found with these tags.",
     "projects.role": "Role",
     "projects.timeline": "Timeline",
+    "projects.about": "About this project",
+    "projects.gallery": "Screenshots",
+    "projects.mechanics": "Mechanics",
+    "projects.back": "All projects",
+    "projects.prev": "Previous",
+    "projects.next": "Next",
+    "projects.notfound": "Project not found",
 
     // Contact
     "contact.title": "Contact",
     "contact.subtitle": "Get in touch! Send me an email and I'll reply as soon as possible.",
     "contact.card.title": "Email",
     "contact.card.hint": "Click the email address above to send me a message directly.",
+    "contact.copy": "Copy",
+    "contact.copied": "Copied!",
+    "contact.socials": "Find me on",
 
     // Footer
     "footer.rights": "All rights reserved.",

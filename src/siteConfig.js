@@ -7,9 +7,10 @@ export const siteConfig = {
 
   socials: {
     email: "eggebeenflint@gmail.com",
-    github: "https://github.com/",
-    linkedin: "https://linkedin.com/",
-    itch: "https://itch.io/",
+    // Laat een link leeg ("") om hem te verbergen op de contactpagina
+    github: "https://github.com/FlintEggebeen",
+    linkedin: "",
+    itch: "",
   },
 
   aboutLong: `
